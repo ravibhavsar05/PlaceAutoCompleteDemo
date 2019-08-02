@@ -1,10 +1,3 @@
-//
-//  AutoComplete.swift
-//  CustomGoogleAutoCompleteDemo
-//
-//  Created by Dimple Desai on 26/07/19.
-//  Copyright © 2019 Dimple Desai. All rights reserved.
-//
 
 import Foundation
 import UIKit
